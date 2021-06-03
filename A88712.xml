@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The last advice of William Laud, late Arch-Bishop, to his episcopall brethren; and especially to Bishop Wren, who still remaines prisoner in the Tower. Which was found in the said Arch-Bishops studie since his death among his other writings, and now set forth to publike view.</title>
+         </titleStmt>
+         <extent>Approx. 16KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88712</idno><idno type="EEBO-CITATION">99871003</idno>
+  <idno type="VID">159424</idno>
+  <idno type="EEBO-PROQUEST">2240942322</idno>
+  
+            <idno type="STC">Wing L468</idno>
+            <idno type="STC">Thomason E269_10</idno>
+            <idno type="STC">ESTC R212379</idno>
+            <idno type="PROQUEST">99871003</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99871003e"/>
+            <note>(EEBO-TCP ; phase 2, no. A88712)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159424)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 45:E269[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The last advice of William Laud, late Arch-Bishop, to his episcopall brethren; and especially to Bishop Wren, who still remaines prisoner in the Tower. Which was found in the said Arch-Bishops studie since his death among his other writings, and now set forth to publike view.</title>
+                  <author>Laud, William, 1573-1645,</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J.B.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Not in fact by Laud.</note>
+                  <note>Annotation on Thomason copy: "feb: 11th. 1644"; the 5 in imprint date crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Laud, William, 1573-1645 --  Early works to 1800.</term>
+               <term type="personal_name">Wren, Matthew, 1585-1667 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-02 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2015-02 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159424:1"/>
+            <p>THE LAST ADVICE OF WILLIAM LAVD, late Arch-Bishop, to his Episco<g ref="char:EOLhyphen"/>pall Brethren; and especially to Bishop <hi>WREN,</hi> who still remaines Pri<g ref="char:EOLhyphen"/>soner in the <hi>Tower.</hi>
+            </p>
+            <p>Which was found in the said Arch-Bishops Studie since his death among his other Writings, and <hi>now set forth to publike view.</hi>
+            </p>
+            <figure/>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>J. B.</hi> 1645. <add>Feb: 11<seg rend="sup">th</seg> 1644</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:159424:2"/>
+            <pb n="1" facs="tcp:159424:2"/>
+            <head>
+               <hi>THE LAST ADVICE OF</hi> WILLIAM LAVD <hi>late Archbishop,</hi> to his Episcopall Brethren of that Lordly Hierarchie.</head>
+            <p>
+               <seg rend="decorInit">W</seg>HAT'S that strikes sadnesse in a sinfull heart, but feare of temporall death? and that after death comes Iudgement, makes the <hi>Genius</hi> faint, which sometimes was so active in do<g ref="char:EOLhyphen"/>ing mischiefe, though now dejected, that once aspired to bedeck its Temples with <hi>Romes</hi> triple Crowne, sailing on with golden thoughts, but heres that causes it hang on a trembling leafe; for that the life thereof attends the Laws decreeing: so upon one gen<g ref="char:EOLhyphen"/>tle gale, through which all the vitals passe from life to death, for fou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e intents against the Reformed Churches, for which thou hast long time groaned under the intolerable pressure of three King<g ref="char:EOLhyphen"/>domes hate, stil expatiating thy selfe like a big-swolne cloud of in<g ref="char:EOLhyphen"/>fection, to obscure the glorious light, and poyson the wholsome ayre with pestilent doctrine, keeping the people in grosse igno<g ref="char:EOLhyphen"/>rance by thy superstitious Romish Ceremonies, making divisions for thy own security, and for keeping up of that Hierarchy, wherof thou wert the head (but now disclaims) from publike reproach, thou hast not failed, by acting thy close and cunning contrivan<g ref="char:EOLhyphen"/>ces, to ruinate almost three Kingdoms, though thereby thou maist wel question what will become of thee here; and hereafter, when all thy Cabinet Councels shal be discovered to al the world who hast made a prey of King &amp; subject: relling the King his power was boundlesse, to make, devise, &amp; alter the Law, when he or they pleased: That it was a Prerogative in the Crown, and the fairest flower in it: therefore hee must make use thereof, by keeping his subjects in awe. This was thy Master-peece, whereby thou wroughtest and broughtest the too long absence of that our Sun, and hadst brought on them eternall and horrid darkenesse, had
+<pb n="4" facs="tcp:159424:3"/> not Divine Providence raysed up and placed so many bright and fixed Starres in <hi>VVestminster,</hi> through whose sweet influence the whole Land hath received Light &amp; Life. Wherefore its impossible for thee to meet with any consolation but a devouring Sword, which is drawne forth and lifted up against all that seeke their Countreyes destruction. I feare Heaven and Earth have combined against us all, I cannot so much as thinke there is any Balme left to cure our ulcerous Leprosie, nor dreame of any favour from this Kingdome (which we have so long laboured to bring to destructi<g ref="char:EOLhyphen"/>on) but as we have justly deserved, to receive Sentence of Death from this faithfull, lawfull, and awfull Parliament. I thought once I could have escaped the Thunderbolts of Divine Venge<g ref="char:EOLhyphen"/>ance, and lifted my selfe up above the reach of the numerous multitude, so long as I was covered with my Princes wings, and warmed with the beames of his favour: but now Nature and Grace, Time and Fortune, have taken a course to bring me to destruction. Therefore I desire all Officers of Church and State to be warned by my fall, especially you Brother <hi>VVren,</hi> who will be the next, by all expectation, that must follow me: Know all of you, a day will come to call every man to a strict accompt (those especially of my owne Coat) who withstood Reformation, and defiled their Mother, Christs unspotted Church, so grievously and grossely as wee: Submit your selves therefore to this High and Honourable Court, acknowledge you have ex<g ref="char:EOLhyphen"/>ercised and upheld a Tyrannica l power over the Soules and Consciences of the People, labour to make your peace with them here, that you may accompt the better hereafter; lead a Christian life, the doing whereof is more then Angelicall: For that the Angels being now placed in their glory, neither have temptations to resist, nor can doe any worke (as wee might or may) to augment their glory. Brethren, it is the last time I shall advise you; wee have sundry examples of our fore-fathers, in whom such simplicitie and sinceritie is reported to have beene, that they have studied nothing else but the Godly mans dutie, and laboured the performance thereof. What will become then of us, who have lived so licentiously, by consenting to every motion that comes with pleasure; yet knowing, that every such consent of heart is as much in substance as the act, and makes the soule guiltie of eternall death? It is to be admired, how circumspect our fore<g ref="char:EOLhyphen"/>fathers
+<pb n="5" facs="tcp:159424:3"/> (in my place) have been in their carriage, and how little wee have followed their good example. <hi>Iob</hi> that just man had lesse cause to feare then we: yet he saith, I did feare all my do<g ref="char:EOLhyphen"/>ings: and the Kingly Prophet was so carefull, that he day and night searched every corner of his heart. What a diligent exa<g ref="char:EOLhyphen"/>mination of conscience was this in a King? surely he had no such Clergy about him, as we have been to our King, who perswaded him it was impossible for his Crown to stand firme on his Royall He<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d without the assistance of the Myter, and intangled him in a pernicious league and covenant against his faithfull subiects: for which we must render a double account, both here and hereafter. For my selfe, I am now become an example to you, to receive ex<g ref="char:EOLhyphen"/>ecution of the iust censure of the High Court of Parliament, which is but a type (I feare) of that we must receive hereafter. For since I have not beene able to give a good account of my stewardship here, I shal bee lesse able to doe it before the great Iudge of all. For considering the strict account every man must give and how rigorous a Master we must come before how stern, how exquisite in his accounts how able to punish guilty men and how he hath dealt by others in the like matters, makes me dread to appeare. Hee hath proclaymed a Law for our behaviour towards him in our severall services. He gave <hi>Adam</hi> the same command at the Creation, and imprinted it in the heart of each man before it was written or published on Mount <hi>Sinai,</hi> which was with great Majestie, to the great astonishment even of the hearers themselves; shewing that the exaction of this Law at the last Day must needs be terrible: This may be one forcible reason to move you to looke backe, for you have longer time then I. Had I ever thought to have beene made exemplarie, I would have beene better prepared; but now, you having me for your President, consider the sharpe execution inflicted on the offenders of this Law before it was written, and since, and you will find great cause of feare: witnesse <hi>Adams</hi> punishment, and many millions more, for his one fault; the drowning of the World rhe burning of <hi>Sodome</hi> and <hi>Gomorrah,</hi> and many others, whom he had more cause to tolerate then wee. O that I had thought hereof when I was in my meanest condition, then had I never sought to crucifie harmelesse Truth as I (with your assistance) have done, nor drunk with open throat the intoxicated Cup of cursed Preferment.
+<pb n="6" facs="tcp:159424:4"/> Consider likewise our Saviours behaviour in this matter; he came to redeeme and pardon us in much mercie and mildnesse, but in this point of taking our accompts he useth neither, but all austeri<g ref="char:EOLhyphen"/>tie, not in words only, but in examples and parables; for in one he damneth that servant to Hell onely because he augmented not his Talent, and all those (without exception) that shal work iniquitie. What have we beene, but workers of iniquitie, by stifling the Rayes of Majesty with impure smoake? We tainted Judgement, and poyson'd the Kings heart, insomuch that we are now plunged into the gulfe of miserie.<note place="margin">Here he dis<g ref="char:EOLhyphen"/>claimeth the Hierarchie with great penitencie.</note> Now the Sun's come forth in Majesty, like a valiant Champion to discover the Mysterie of iniquitie, and to chase abhorred darknesse from off the earth, to the shame of all the Lordly Dignities that reigned over the Church. We now groane under the heavie censure of three Kingdomes, for our ty<g ref="char:EOLhyphen"/>rannie &amp; oppression, wherewith we so cruelly bruized the powers of the earth. For my part, might I live another Age without of<g ref="char:EOLhyphen"/>fence to God, the world shou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d see, I would cast my selfe into the bosome of that Truth which I have so much wounded; and endea<g ref="char:EOLhyphen"/>vour to leave a good example behind to all Court-Parasites; for it is that which (at this day) concernes me as the life of my soule: but this I should have done while it was called to day; and not have let it slip to my last glasse of time. I can doe nothing now, time is past, save onely to forwarne you, Brother, who have some time, to make good use thereof, for it hastneth away. Consider what a Master you have to reckon withall, and that he will call you to a severe accompt of your Talent: Looke on my example; know there is one above that sees how you (Brother <hi>VVilliams</hi> and <hi>Ferne</hi>) lay impositions on the conscience of your Prince, by preaching so much earthly Prerogative Royall Doctrine, never thinking on the Prerogative Royall of Heaven: Know there is a Summons given out, for your accompts to be brought before the Judge of all, and there are two Judgements appointed after death: the one is particular, whereby each man at his departure from this world receives sentence either of punishment or re<g ref="char:EOLhyphen"/>ward; which we see in <hi>Lazarus</hi> and <hi>Dives,</hi> the one was called to punishment, the other to rest: the other is generall, which shall be of all men at the end of the world where a finall sentence shall be pronounced on all, never altering their estate, by easing the paine of the one, or ending the glory of the other. O that you
+<pb n="7" facs="tcp:159424:4"/> would with <hi>Austine</hi> say, you have considered the particulars of the great severitie and feare, in the soules passage from the body to Gods Tribunall, under the custodie of good and bad Angels: O the feare she hath of them, the terror of Gods presence, and the strict examination she must abide: it torments me to thinke I considered it not before, it being that which I by God was called to, to search into these mysteries, and yet never weighed them till now. What a sad condition am I now comming into, after I have satisfied the world with my poore life; yet this is but the first Judgement of two that I must receive, having left this world. The reason why God will have a second Judgement is, for that the bodies of many rising from their graves, might be partakers of the eternall punishment or glory of the soule, as it hath beene copartner with the same in vertue or vice in this life: secondly, that as Christ was reproached here publiquely, so he might shew his Power &amp; Majestie publiquely, in sight of all creatures: thirdly, that the godly and wicked might receive their reward openly, to the confusion of the one, and glory of the other: fourthly, for that wicked men when they die, commonly carry not with them al their demerits, but leave behind them evil example &amp; their hous<g ref="char:EOLhyphen"/>hold corrupted by them, or their doctrines. Al which following after their death, they cannot so conveniently receive judgement for the same presently. Therefore as you love the life of your soules, consider what a sad condition we the Prelates are in: espe<g ref="char:EOLhyphen"/>cially my selfe, having no more time to repent: How many 1000. are gone before, and I shal leave behind, that wil cry out for ven<g ref="char:EOLhyphen"/>geance, and be tormented themselves for that they led their lives answerable to our corrupted doctrines? Wherefore at the request of your dying Brother, repent, that your example may worke a<g ref="char:EOLhyphen"/>mendment in those who yet live, whom we have corrupted, that we may have the lesse to answer for: For according to our offen<g ref="char:EOLhyphen"/>ces, shal be our torments: It is prelatical dignity that hath brought us al to ruine here, and I feare so wounded our soules, as we shal hardly ever have Ioy hereafter, but multitude of torments. For as the evil fals out hereafter, by reason of our wickednesse, so shal our torments be increased: Tis <hi>Austins</hi> own rule, and <hi>I</hi> speak it with griefe, wishing that my hearty sorrow could but convert one soule at this my last ho<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re, that <hi>I</hi> might but in part glory for any good that may come to any by my Last Testament here. For
+<pb n="8" facs="tcp:159424:5"/> there wil not be an end of all our doings, til the last dreadful day, where it shal be evidently seen, what every man shall have in the justice and mercy of God, who will bring to Iudgement al things, and al men: It must needs therefore be a terrible day to the wicked, for the distresses (even of whole n<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tions shal be great) al the Tribes of the earth shal mourn, all shal be presented, even the closest actions, &amp; most secret cabinet Councels of those of our own Tribe, it shalbe al preacht on the house top. Our very righte<g ref="char:EOLhyphen"/>ousnesse (if we ever had any) shalbe judged. Good men shal stand with boldnesse against their Tormentors here, when the wicked shalbe confounded, and thrust into Hell. Have we not cause then to prepare for this great day? how many circumstances of feare <hi>and horror, it shall be at midnight, when men usually sleep, what hideous noyse of Trumpets, sound of Waters, motions of all the Elements, Stars fal<g ref="char:EOLhyphen"/>ling, the Elements rent in sunder, and all the world on a flame, Graves ope<g ref="char:EOLhyphen"/>ning, and yeelding up all their dead, both Kings and Pesants, to stand naked in view of all creatures, compelled to give account of 1000. matters, which they would have disdained to have been told of here. O that I could now say I had a good conscience, what an unspeakable treasure it would be to me at this time. Wealth nought avails, for this Iudge wil not be corrupted with money: No intercession will then prevayle: the Angels themselves, though they shall have the honour to manacle the King, and bind the Princes of the earth, shall not intercede for us: whose helpe shall we then crave? Me<g ref="char:EOLhyphen"/>thinks I heare all things about me to cry for vengeance already against you all. They all yeeld me cause of terrour, but no comfort. O take warning by my horrour, even now I am giving the word for lifes farewell. I see, as it were, my great Iudge above me mightily oftended with mee, Hell open be<g ref="char:EOLhyphen"/>neath me, the cruel Furnace ready boyling to receive me. On my right hand my sins accusing me: on my left, the Devil ready to execute Gods sentence on me, within my conscience gnawing, without all damned soules bewayling, what shall I doe to goe back is impossible, to go forward is intolerable. O that I might but live one day longer to describe the horrour of an evil con<g ref="char:EOLhyphen"/>science. How foure doe al my worldly pleasures past seeme to me at this houre, their very memory wil be doleful at the great day. Wherfore I desire al men to make this use of my Last Testament, not to give themselves over to al manner of Licentiousnesse, as wee have done: Lest this great day or<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>take them.</hi>
+            </p>
+            <epigraph>
+               <q>
+                  <l>So now to life adieu,</l>
+                  <l>All worldly Ioyes farwell,</l>
+                  <l>For now I die the death,</l>
+                  <l>Lord keep my soule from Hell.</l>
+               </q>
+            </epigraph>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
